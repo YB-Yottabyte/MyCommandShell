@@ -1,4 +1,4 @@
-# Command Shell
+# My Command Shell
 # Currently in Testing Phase
 Welcome to my Command Shell project! This is a simple command-line tool where you can run shell commands and track how often you use them. Plus, it has some features for generating text using a Markov chain model.
 
