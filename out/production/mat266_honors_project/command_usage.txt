@@ -1,1 +1,1 @@
-ssh -t -Y skukunu1@eecad106.eas.asu.edu;:3
+
