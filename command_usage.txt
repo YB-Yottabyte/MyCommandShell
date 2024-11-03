@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 ssh -t -Y skukunu1@eecad106.eas.asu.edu;:3
 ls:1
 pwd:1
+=======
+cd Desktop:1
+ls:5
+cd sairithwikk:1
+pwd:9
+cd Desktio:1
+cd ..:4
+>>>>>>> b8f636e1d464977c44f80adccb9e9a6571e1d95b
