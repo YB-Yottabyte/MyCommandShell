@@ -35,6 +35,18 @@ First, make a copy of the project by cloning it from GitHub. Open your terminal 
 
 git clone https://github.com/YB-Yottabyte/MAT266.git
 
+Then, Add this Files Back to src: (## Working on Adding this Files back to src in github)
+- CommmandShell.class
+- CommmandShell.java
+- CommmandUsuageStore.class
+- CommmandUsuageStore.java
+- MarkovChain.class
+- MarkovChain.java
+- TextGenerator.class
+- TextGenerator.java
+- pom.xml
+
+
 Step 2: Go to the src Directory
 Next, navigate to the src folder where all the Java files are stored. You can do this by typing:
 
