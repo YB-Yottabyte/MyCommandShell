@@ -1,0 +1,6 @@
+cd Desktop:1
+ls:5
+cd sairithwikk:1
+pwd:9
+cd Desktio:1
+cd ..:4

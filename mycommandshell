@@ -1,0 +1,4 @@
+#!/bin/bash
+cd src  # Change to the src directory where the class files are
+java CommandShell
+
